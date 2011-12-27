@@ -1,0 +1,7 @@
+A trashed version of phpfolding.vim, folds only functions and doesn't
+care much about anything else. Very lightweight and unannoying.
+
+
+I guess this was the original:
+
+   http://www.vim.org/scripts/script.php?script_id=1623
